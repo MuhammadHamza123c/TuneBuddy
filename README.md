@@ -19,13 +19,20 @@ A Python-based song recommendation system that suggests songs based on **artist*
 
 
 
+## Live Demo
+
+Try the TuneBuddy song recommendation system online:  
+[🎵 Launch Live Demo](https://humza7656-tunebuddy.hf.space)
+
+
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/tunebuddy.git
-cd tunebuddy
+git clone https://github.com/MuhammadHamza123c/TuneBuddy.git
+cd TuneBuddy
+
 ```
 
 ## **Create a virtual environment (optional but recommended)**:
